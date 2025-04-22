@@ -51,11 +51,14 @@ Green Button + Image B + Header 3
 
 <img width="819" alt="Screenshot 2025-04-20 at 8 35 32 AM" src="https://github.com/user-attachments/assets/4ceba721-862d-40d0-990e-8b6c4e9e0bf5" />
 
+## Statistical Validation
+
+<img width="485" alt="Screenshot 2025-04-22 at 10 25 13 AM" src="https://github.com/user-attachments/assets/714a3b94-c3d4-4a2a-86cb-4d4b4982fa13" />
 
 
 
 
-Insights
+## Insights
 
 1. Individual Performance:
 - Button Color: Blue drove the highest RPI (5.96) abd AOV (130.10), while Red achieved the best CTR (13.46%)
