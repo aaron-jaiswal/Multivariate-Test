@@ -56,11 +56,34 @@ Green Button + Image B + Header 3
 
 
 Insights
-- Red + Image A + Header 2 dominates CTR (21.63%) but underperforms on revenue metrics
-- Blue + Image C + Header 1 is the revenue leader (highest RPI and AOV)
+
+1. Individual Performance:
+- Button Color: Blue drove the highest RPI (5.96) abd AOV (130.10), while Red achieved the best CTR (13.46%)
+- Banner Image: Image A led in CTR (13.13%) and AOV (128.64) while Image C did better in RPI (5.40)
+- Header Text: Header 2 had the highest CTR (13.55%), while header 3 had the best RPI ($5.50)
+
+2. Top Combinations
+- Blue + Image C + Header 1 emerged as the revenue leader (RPI:8.77, AOV: 186.10)
+- Red + Image A + Header 2 dominated engagement (CTR: 21.63%) but lagged in revenue metrics.
+- Interactions revealed trade-offs (e.g., high CTR combos often had lower AOV).
+
+3. Statistical Validation
+- Blue buttons and Image A showed consistent, significant lifts in RPI (p < 0.05).
+- Daily trends indicated stable performance for top combos, with no weekday/weekend volatility.
+
+
 - Green combo shows balanced performance
 - Blue + Image A has mid-tier performance
 
+
+
+
+
+## Recommendations
+
+- Prioritize Blue + Image C + Header 1 for revenue-focused campaigns.
+- Test Red + Image A + Header 2 for lead-generation efforts.
+- Monitor daily metrics for early fatigue detection (e.g., CTR drops after 7 days).
 
 
 
