@@ -45,11 +45,15 @@ Green Button + Image B + Header 3
 
 <img width="492" alt="Screenshot 2025-04-17 at 9 00 29 AM" src="https://github.com/user-attachments/assets/d4dd3a62-608f-410a-97aa-a6c9ebbae5e6" />
 
-/Users/ritishjaiswal/Desktop/Screenshot 2025-04-20 at 8.36.26 AM.png
+<img width="1773" alt="Screenshot 2025-04-20 at 8 36 26 AM" src="https://github.com/user-attachments/assets/bf888110-6882-4729-84ab-4e1fc8074f9a" />
 
-/Users/ritishjaiswal/Desktop/Screenshot 2025-04-20 at 8.35.53 AM.png
+<img width="998" alt="Screenshot 2025-04-20 at 8 35 53 AM" src="https://github.com/user-attachments/assets/b84fadb3-c7c4-437d-9f74-7afae4ea46da" />
 
-/Users/ritishjaiswal/Desktop/Screenshot 2025-04-20 at 8.35.32 AM.png
+<img width="819" alt="Screenshot 2025-04-20 at 8 35 32 AM" src="https://github.com/user-attachments/assets/4ceba721-862d-40d0-990e-8b6c4e9e0bf5" />
+
+
+
+
 
 Insights
 - Red + Image A + Header 2 dominates CTR (21.63%) but underperforms on revenue metrics
