@@ -1,3 +1,10 @@
+
+# Executive Summary
+
+This analysis aims to identify the optimal combination of marketing elements (button color, banner image, and header text) to maximize key performance metrics—Click-Through Rate (CTR), Revenue Per Impression (RPI), and Average Order Value (AOV)—while ensuring statistical significance.
+
+
+
 # Multivariate-Test
 
 
@@ -38,14 +45,11 @@ Green Button + Image B + Header 3
 
 <img width="492" alt="Screenshot 2025-04-17 at 9 00 29 AM" src="https://github.com/user-attachments/assets/d4dd3a62-608f-410a-97aa-a6c9ebbae5e6" />
 
+/Users/ritishjaiswal/Desktop/Screenshot 2025-04-20 at 8.36.26 AM.png
 
-![Unknown-3](https://github.com/user-attachments/assets/d61c0571-8f00-4b4b-b100-18fe45f0dbfb)
+/Users/ritishjaiswal/Desktop/Screenshot 2025-04-20 at 8.35.53 AM.png
 
-
-![Unknown-4](https://github.com/user-attachments/assets/2c183426-5258-4c01-a3c0-5edac5e5dbba) 
-
-
-![Unknown-5](https://github.com/user-attachments/assets/f62a7be5-71a2-4d33-b12d-598eb5f13a69)
+/Users/ritishjaiswal/Desktop/Screenshot 2025-04-20 at 8.35.32 AM.png
 
 Insights
 - Red + Image A + Header 2 dominates CTR (21.63%) but underperforms on revenue metrics
